@@ -1,5 +1,5 @@
 ##############################################################################
-## KPMG ONE AMERICAS			                                            ##
+## Thiago Couto Fontes - thcfontes@gmail.com                                ##
 ## Install/Configure Azure Devops Agent and all Dependencies                ##
 ##############################################################################
 
