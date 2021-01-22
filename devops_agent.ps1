@@ -1,6 +1,6 @@
 ##############################################################################
-## 					            KPMG ONE AMERICAS			                ##
-##		    Install/Configure Azure Devops Agent and all Dependencies       ##
+## KPMG ONE AMERICAS			                                            ##
+## Install/Configure Azure Devops Agent and all Dependencies                ##
 ##############################################################################
 
 param ($pat, $org, $poolname='default')
